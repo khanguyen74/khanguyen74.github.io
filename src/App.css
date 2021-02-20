@@ -45,8 +45,11 @@
 }
 
 .nav-link{
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
 }
+
 
 .navbar{
   padding-left: 50px;
@@ -57,17 +60,15 @@
 }
 
 
-.link{
+/* .link{
   color: #F9F6F6
 }
 
 .link:hover{
   color: grey;
   text-decoration: none;
-}
-nav ul li{
-  margin: 40px 0;
-}
+} */
+
 
 .school-card{
   width: 100%;
